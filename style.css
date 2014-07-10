@@ -1,0 +1,45 @@
+
+
+
+.container{
+	background-color: silver;
+	height: 460px;
+	width: 810px;
+}
+
+
+.menu-part{
+	height: 450px;
+	width: 200px;
+	float: left;
+}
+
+
+
+.content-part{
+	height: 450px;
+	width: 600px;
+	float: left;
+}
+
+.content{
+	display: none;
+}
+
+.menu-item{
+	text-align:center;
+	font-size:28pt;
+	
+	height: 150px;
+	width: 195px;
+	background-color:#94ff08;
+	border-radius:10%;
+	
+	-webkit-box-shadow: inset 6px 8px 43px 3px rgba(4,10,2,1);
+-moz-box-shadow: inset 6px 8px 43px 3px rgba(4,10,2,1);
+box-shadow: inset 6px 8px 43px 3px rgba(4,10,2,1);
+}
+
+.menu-text{
+margin-top:20px;
+}
