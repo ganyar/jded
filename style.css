@@ -8,8 +8,14 @@
 
 .container{
 	/* background-color: silver; */
-	height: 460px;
-	width: 810px;
+	height: 450px;
+	width: 803px;
+	margin: auto;
+	background: #fba6e2;
+	border-radius:10%;
+	font-family:"Raleway thin";	
+	font-size: 25pt;
+	color:white;
 }
 
 
@@ -62,7 +68,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#93cede', end
 	border-bottom-left-radius: 10%;
 }
 .menu-item-selected{
-background-color: blue;
+background:#fba6e2;
 }
 
 .menu-text{
